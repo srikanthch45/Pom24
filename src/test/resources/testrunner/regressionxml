@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AE Test Suite"  verbose="4">
+
+	<test name="Ae homepage test">
+		<classes>
+			<class name="com.qa.Ae.tests.Homepagetest" />
+			
+		</classes>
+	</test>
+	
+	
+
+</suite>
